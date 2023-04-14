@@ -1,0 +1,17 @@
+.order__input-validate {
+    /* border-color: #08a021; */
+    /* background-color: aliceblue; */
+}
+
+.error {
+ position: relative;
+}
+.order__input-error {
+    /* border-color: red; */
+    
+}
+.order__form-fleshError {
+    position: absolute;
+    left: 100px;
+    top: -5px;
+}
